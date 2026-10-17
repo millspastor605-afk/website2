@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#6956d8">
+  <title>Flashcards</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Flashcards home">
+      <span class="brand-mark" aria-hidden="true">✦</span>
+      <span>Flashcards</span>
+    </a>
+    <span id="connection-status" class="status" role="status">Loading decks…</span>
+  </header>
+
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">YOUR STUDY SPACE</p>
+      <h1>Learn a little, <span>every day.</span></h1>
+      <p>Choose a deck and a study mode to get started.</p>
+    </section>
+
+    <section class="toolbar" aria-label="Deck controls">
+      <label class="deck-picker">
+        <span>Current deck</span>
+        <select id="deck-select" aria-label="Choose a deck"></select>
+      </label>
+
+      <div class="toolbar-actions">
+        <label class="button button-secondary file-button">
+          Import JSON
+          <input id="file-input" type="file" accept=".json,application/json">
+        </label>
+        <button id="download-button" class="button button-secondary" type="button">
+          Download deck
+        </button>
+      </div>
+    </section>
+
+    <nav class="mode-tabs" aria-label="Study modes">
+      <button class="mode-tab active" type="button" data-mode="overview" aria-pressed="true">
+        Overview
+      </button>
+      <button class="mode-tab" type="button" data-mode="flashcard" aria-pressed="false">
+        Flashcards
+      </button>
+      <button class="mode-tab" type="button" data-mode="multiple" aria-pressed="false">
+        Multiple choice
+      </button>
+    </nav>
+
+    <section id="study-area" class="study-area" aria-live="polite"></section>
+  </main>
+
+  <footer class="footer">
+    Add JSON decks to the <code>decks</code> folder, or import one above.
+  </footer>
+</body>
+</html>
