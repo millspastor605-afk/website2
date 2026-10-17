@@ -1,0 +1,96 @@
+{
+  "title": "Test Construction and Revised Bloom’s Taxonomy",
+  "mode": "multiple_choice",
+  "cards": [
+    {
+      "question": "What tool organizes learning objectives and content when planning a test?",
+      "answer": "Table of specification",
+      "choices": ["Table of specification", "Answer key", "Rubric", "Item bank"]
+    },
+    {
+      "question": "What is step 1 in test construction?",
+      "answer": "Identify objectives",
+      "choices": ["Draft the test items", "Identify objectives", "Try out the test", "Choose the type of objective test"]
+    },
+    {
+      "question": "What is step 2 in test construction?",
+      "answer": "Choose the type of objective test to prepare",
+      "choices": ["Prepare a table of specification", "Identify objectives", "Choose the type of objective test to prepare", "Try out and/or validate the test"]
+    },
+    {
+      "question": "What is step 3 in test construction?",
+      "answer": "Prepare a table of specification",
+      "choices": ["Prepare a table of specification", "Draft the test items", "Choose the type of objective test", "Identify objectives"]
+    },
+    {
+      "question": "What is step 4 in test construction?",
+      "answer": "Draft the test items",
+      "choices": ["Try out and/or validate the test", "Identify objectives", "Draft the test items", "Prepare a table of specification"]
+    },
+    {
+      "question": "What is step 5 in test construction?",
+      "answer": "Try out and/or validate the test",
+      "choices": ["Choose the type of objective test", "Try out and/or validate the test", "Draft the test items", "Identify objectives"]
+    },
+    {
+      "question": "Who introduced the original taxonomy of educational objectives, and when?",
+      "answer": "Benjamin Bloom, 1956",
+      "choices": ["Benjamin Bloom, 1956", "Lorin Anderson and David Krathwohl, 2001", "Ralph Tyler, 1949", "Jerome Bruner, 1960"]
+    },
+    {
+      "question": "Who revised Bloom’s taxonomy, and when?",
+      "answer": "Lorin Anderson and David Krathwohl, 2001",
+      "choices": ["Benjamin Bloom and Ralph Tyler, 1956", "Lorin Anderson and David Krathwohl, 2001", "Jerome Bruner and Benjamin Bloom, 1960", "David Krathwohl and Ralph Tyler, 2001"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy term for knowledge?",
+      "answer": "Remembering",
+      "choices": ["Understanding", "Remembering", "Applying", "Analyzing"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy term for comprehension?",
+      "answer": "Understanding",
+      "choices": ["Creating", "Evaluating", "Understanding", "Remembering"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy term for application?",
+      "answer": "Applying",
+      "choices": ["Analyzing", "Applying", "Evaluating", "Understanding"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy term for analysis?",
+      "answer": "Analyzing",
+      "choices": ["Remembering", "Creating", "Analyzing", "Applying"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy equivalent of synthesis?",
+      "answer": "Creating",
+      "choices": ["Evaluating", "Creating", "Analyzing", "Understanding"]
+    },
+    {
+      "question": "What is the revised Bloom’s taxonomy equivalent of evaluation?",
+      "answer": "Evaluating",
+      "choices": ["Applying", "Remembering", "Evaluating", "Creating"]
+    },
+    {
+      "question": "What is the first level in the revised Bloom’s taxonomy?",
+      "answer": "Remembering",
+      "choices": ["Understanding", "Remembering", "Applying", "Creating"]
+    },
+    {
+      "question": "What is the highest level in the revised Bloom’s taxonomy?",
+      "answer": "Creating",
+      "choices": ["Analyzing", "Evaluating", "Creating", "Applying"]
+    },
+    {
+      "question": "What are the revised Bloom’s taxonomy levels in order?",
+      "answer": "Remembering, understanding, applying, analyzing, evaluating, creating",
+      "choices": [
+        "Remembering, understanding, applying, analyzing, evaluating, creating",
+        "Remembering, applying, understanding, evaluating, analyzing, creating",
+        "Understanding, remembering, analyzing, applying, creating, evaluating",
+        "Knowledge, comprehension, application, analysis, synthesis, evaluation"
+      ]
+    }
+  ]
+}

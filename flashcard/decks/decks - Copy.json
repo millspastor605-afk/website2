@@ -1,0 +1,196 @@
+{
+  "title": "12 Principles of a High-Quality Assessment",
+  "mode": "multiple_choice",
+  "cards": [
+    {
+      "question": "How many principles of a high-quality assessment are covered in these flashcards?",
+      "answer": "12",
+      "choices": ["10", "11", "12", "14"]
+    },
+    {
+      "question": "Which principle says learning targets should be clear, appropriate, and focused on what is important?",
+      "answer": "Clarity and appropriateness of learning targets",
+      "choices": ["Clarity and appropriateness of learning targets", "Fairness", "Authenticity", "Practicality and efficiency"]
+    },
+    {
+      "question": "Students’ mastery of content is which learning target?",
+      "answer": "Knowledge",
+      "choices": ["Knowledge", "Reasoning", "Skills", "Affective outcomes"]
+    },
+    {
+      "question": "Students’ ability to use their knowledge is which learning target?",
+      "answer": "Reasoning",
+      "choices": ["Products", "Reasoning", "Knowledge", "Affective outcomes"]
+    },
+    {
+      "question": "Students’ ability to demonstrate what they have learned is which learning target?",
+      "answer": "Skills",
+      "choices": ["Knowledge", "Products", "Skills", "Reasoning"]
+    },
+    {
+      "question": "Students’ ability to create is which learning target?",
+      "answer": "Products",
+      "choices": ["Affective outcomes", "Reasoning", "Skills", "Products"]
+    },
+    {
+      "question": "Students’ emotional attainments are most closely associated with which learning target?",
+      "answer": "Affective outcomes",
+      "choices": ["Knowledge", "Affective outcomes", "Skills", "Products"]
+    },
+    {
+      "question": "Which principle says assessment methods should suit the learning target?",
+      "answer": "Appropriate assessment methods",
+      "choices": ["Balance", "Appropriate assessment methods", "Clear communication", "Ethics in assessment"]
+    },
+    {
+      "question": "Objective supply items most commonly assess which learning target?",
+      "answer": "Knowledge",
+      "choices": ["Knowledge", "Products", "Affective outcomes", "Skills"]
+    },
+    {
+      "question": "Objective select items most commonly assess which learning target?",
+      "answer": "Knowledge",
+      "choices": ["Reasoning", "Affective outcomes", "Knowledge", "Products"]
+    },
+    {
+      "question": "Essay questions are commonly used to assess which learning target?",
+      "answer": "Reasoning",
+      "choices": ["Reasoning", "Affective outcomes", "Skills", "Products"]
+    },
+    {
+      "question": "Performance-based assessment is commonly used to assess which learning targets?",
+      "answer": "Skills and products",
+      "choices": ["Knowledge and affects", "Skills and products", "Reasoning and knowledge", "Affects and products"]
+    },
+    {
+      "question": "Oral questions can commonly assess which learning targets?",
+      "answer": "Knowledge and reasoning",
+      "choices": ["Knowledge and reasoning", "Skills and products", "Affective outcomes and skills", "Products and affects"]
+    },
+    {
+      "question": "Observation can commonly assess which learning targets?",
+      "answer": "Knowledge and skills",
+      "choices": ["Products and affects", "Knowledge and skills", "Reasoning and affects", "Knowledge and products"]
+    },
+    {
+      "question": "Self-report is commonly used to assess which learning target?",
+      "answer": "Affective outcomes",
+      "choices": ["Skills", "Knowledge", "Affective outcomes", "Products"]
+    },
+    {
+      "question": "Which principle calls for assessing all relevant learning domains and levels of objectives?",
+      "answer": "Balance",
+      "choices": ["Balance", "Validity", "Fairness", "Authenticity"]
+    },
+    {
+      "question": "What are the three commonly recognized domains of learning?",
+      "answer": "Cognitive, affective, psychomotor",
+      "choices": ["Cognitive, affective, psychomotor", "Knowledge, reasoning, products", "Remembering, applying, creating", "Formative, diagnostic, summative"]
+    },
+    {
+      "question": "What is the original order of Bloom’s cognitive taxonomy?",
+      "answer": "Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation",
+      "choices": [
+        "Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation",
+        "Remember, Understand, Apply, Analyze, Evaluate, Create",
+        "Knowledge, Application, Comprehension, Synthesis, Analysis, Evaluation",
+        "Remember, Apply, Understand, Evaluate, Analyze, Create"
+      ]
+    },
+    {
+      "question": "What is the revised order of Bloom’s taxonomy associated with Anderson and Krathwohl?",
+      "answer": "Remember, Understand, Apply, Analyze, Evaluate, Create",
+      "choices": [
+        "Remember, Understand, Apply, Analyze, Evaluate, Create",
+        "Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation",
+        "Remember, Apply, Understand, Evaluate, Analyze, Create",
+        "Understand, Remember, Analyze, Apply, Create, Evaluate"
+      ]
+    },
+    {
+      "question": "Which principle asks whether an assessment measures what it is intended to measure?",
+      "answer": "Validity",
+      "choices": ["Reliability", "Validity", "Fairness", "Practicality"]
+    },
+    {
+      "question": "Which principle concerns whether an assessment produces consistent results?",
+      "answer": "Reliability",
+      "choices": ["Authenticity", "Validity", "Reliability", "Balance"]
+    },
+    {
+      "question": "What method estimates reliability by giving the same test to the same group on separate occasions?",
+      "answer": "Test-retest reliability",
+      "choices": ["Test-retest reliability", "Split-half reliability", "Parallel-forms reliability", "Content validity"]
+    },
+    {
+      "question": "What method estimates internal consistency by dividing a test into two parts and comparing the scores?",
+      "answer": "Split-half reliability",
+      "choices": ["Test-retest reliability", "Split-half reliability", "Parallel-forms reliability", "Predictive validity"]
+    },
+    {
+      "question": "What method estimates reliability by comparing scores on two equivalent versions of a test?",
+      "answer": "Parallel-forms reliability",
+      "choices": ["Split-half reliability", "Test-retest reliability", "Parallel-forms reliability", "Face validity"]
+    },
+    {
+      "question": "Which formulas estimate internal consistency for tests with dichotomously scored items?",
+      "answer": "Kuder-Richardson KR-20 and KR-21",
+      "choices": ["Kuder-Richardson KR-20 and KR-21", "Spearman-Brown and Pearson only", "Test-retest and parallel forms", "ANOVA and chi-square"]
+    },
+    {
+      "question": "Which principle calls for equal opportunities and no unfair discrimination in assessment?",
+      "answer": "Fairness",
+      "choices": ["Fairness", "Authenticity", "Validity", "Balance"]
+    },
+    {
+      "question": "Which principle emphasizes real-life relevance and practical application?",
+      "answer": "Authenticity",
+      "choices": ["Reliability", "Authenticity", "Clear communication", "Ethics in assessment"]
+    },
+    {
+      "question": "Which principle emphasizes using assessment resources efficiently, including time and money?",
+      "answer": "Practicality and efficiency",
+      "choices": ["Practicality and efficiency", "Positivity of consequence", "Clarity of learning targets", "Reliability"]
+    },
+    {
+      "question": "Which principle recognizes that assessment should occur throughout the teaching-learning process?",
+      "answer": "Assessment is a continuous process",
+      "choices": ["Assessment is a continuous process", "Assessment is only summative", "Assessment is optional", "Assessment is only diagnostic"]
+    },
+    {
+      "question": "What type of assessment is done before instruction to determine students’ needs or starting points?",
+      "answer": "Placement assessment",
+      "choices": ["Formative assessment", "Summative assessment", "Placement assessment", "Diagnostic assessment"]
+    },
+    {
+      "question": "What type of assessment is done during instruction to monitor progress and provide reinforcement?",
+      "answer": "Formative assessment",
+      "choices": ["Formative assessment", "Placement assessment", "Summative assessment", "Final assessment"]
+    },
+    {
+      "question": "What type of assessment is used to identify problems and learning difficulties?",
+      "answer": "Diagnostic assessment",
+      "choices": ["Summative assessment", "Diagnostic assessment", "Placement assessment", "Formative assessment"]
+    },
+    {
+      "question": "What type of assessment is done after instruction to evaluate achievement?",
+      "answer": "Summative assessment",
+      "choices": ["Diagnostic assessment", "Formative assessment", "Placement assessment", "Summative assessment"]
+    },
+    {
+      "question": "Which principle says assessment should respect students and protect confidentiality?",
+      "answer": "Ethics in assessment",
+      "choices": ["Ethics in assessment", "Authenticity", "Balance", "Reliability"]
+    },
+    {
+      "question": "Which principle says assessment results should be communicated to learners and relevant people?",
+      "answer": "Clear communication",
+      "choices": ["Clear communication", "Clarity of learning targets", "Practicality and efficiency", "Fairness"]
+    },
+    {
+      "question": "Which principle says assessment should have a positive effect and motivate students to learn?",
+      "answer": "Positivity of consequence",
+      "choices": ["Positivity of consequence", "Validity", "Authenticity", "Balance"]
+    }
+  ]
+}
